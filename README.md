@@ -11,4 +11,8 @@ A continuación se exponen los resultados del análisis realizado utilizando la 
 
 ![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/e0fc2c18-4124-45b8-811f-d78d810d38d3)
 
-Analizando los resultados de la capacitancia para la primera compuerta NOR se van a utilizar transitores con una relacion de 2:1, de modo que el N quedo de 6 y el P de 24, esto debido la compuerta como tal, para la segunda NOR los tamaños quedaron de 98 el p y de 24 el N
+Analizando los resultados de la capacitancia para la primera compuerta NOR, se utilizarán transistores con una relación de 2:1, resultando en un tamaño de 6 para el transistor N y 24 para el transistor P, esto debido a las características inherentes de la compuerta. Para la segunda compuerta NOR, los tamaños de los transistores quedaron en 98 para el transistor P y 24 para el transistor N.
+
+Para determinar la potencia se debe de realizar el siguiente análisis:
+![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/30eff2c1-c7eb-47ad-8cdf-4795c4428315)
+
