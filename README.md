@@ -47,7 +47,9 @@ Para el tcdf, existen por lo menos 3 transistore N activos, reduciendo así la r
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/1a4af96e-350f-4bc2-b422-8e6236cf79b7" width="500"/>
 </p>
 El caso del tcdr, no existen transistores N activos, nuevamente reduciendo la resistencia del camino y aparte de esto las capacitancias a cargar, esto deja como resultado: 
-$$R = \frac{17}{2}$$
+$$R = \frac{V_{DD}}{I_H + I_L}$$
+
+asd
 $$\frac{17}{2} * \tau = 146.2 ps$$ 
 
 <p align="center">
