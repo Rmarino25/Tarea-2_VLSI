@@ -5,7 +5,8 @@ En la tarea, además de resolver el problema de diseño de circuitos electrónic
 A continuación, se presentarán los estimados de retardo y consumo promedio de potencia aproximado para las dos posibles soluciones al problema 9.4 de [1]. Se evaluará y contrastará ambas soluciones utilizando la teoría de Esfuerzo Lógico, considerando la velocidad y el consumo de potencia dinámica aproximados de cada una.
 Para implementar esta lógica, se utilizaron dos enfoques diferentes. En uno de ellos, se emplearon únicamente compuertas simples, mientras que en el otro se utilizó una compuerta compleja junto con un inversor. 
 La implementacion realizada con compuertas simple quedó de la siguiente manera: 
-![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/94d98835-e569-444b-b055-bc86acec3ba7)
+
+![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/bc585a32-ba6d-4422-b534-9c71cbfdbb13)
 
 A continuación se exponen los resultados del análisis realizado utilizando la compuerta mencionada anteriormente.
 
