@@ -16,3 +16,9 @@ Analizando los resultados de la capacitancia para la primera compuerta NOR, se u
 Para determinar la potencia se debe de realizar el siguiente análisis:
 ![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/30eff2c1-c7eb-47ad-8cdf-4795c4428315)
 
+Ahora bien, para la compuerta compuesta con el inversor, se puede análizar utilizando el siguiente esquematico.
+
+![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9a7aaa88-cd45-4575-936c-58a93a860ba8)
+
+Lo que da cono resultado:
+
