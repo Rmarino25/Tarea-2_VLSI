@@ -71,11 +71,11 @@ Ya obteniendo tanto los tiempos de la compuerta compuesta como los del inversor,
 
 $$tpdf = x $$
 
-$$tcdr = y $$
+$$tcdf = y $$
 
-$$tpdf = z $$
+$$tpdr = z $$
 
-$$tpdr = x $$
+$$tcdr = x $$
 
 ## Parte 3.
 
