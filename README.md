@@ -70,9 +70,13 @@ Teniendo esta información, se pueden calcular los tiempos de subida como de baj
 Ya obteniendo tanto los tiempos de la compuerta compuesta como los del inversor, se puede hacer una estimación del tiempo de retardo que se puede obtener tanto de subida y bajada en los mejores y peores casos, estos resultados son los siguientes:
 
 $$tpdf = x $$
-$$tcdr = x $$
-$$tpdf = X $$
+
+$$tcdr = y $$
+
+$$tpdf = z $$
+
 $$tpdr = x $$
+
 ## Parte 3.
 
 
