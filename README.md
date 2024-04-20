@@ -30,7 +30,7 @@ Lo que da como resultado:
 Con respecto a los tiempos de propagación y contaminación, se realizaron tanto los cálculos para la compuerta compuesta como para las etapas más pequeñas en el que se estudia el mejor y el peor caso tomando las capacitancias que se deban cargar o descargar en cada caso
 
 ### Compuerta compuesta e inversor 
-Con respecto al tiempo de propagación de la compuerta compuesta se realizaron los siguientes cálculos:
+Con respecto al tiempo de propagación de la compuerta compuesta se realizaron los siguientes cálculos, donde el caso de estudio será cuando solo dos transistores N esten activos, dejando una resistencia un retardo de 16RC, donde $$RC = \tau = 17.3 ps$$  
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/923565bc-24c1-407c-b4af-da3a99a3ff13" width="500"/>
 </p>
