@@ -15,7 +15,8 @@ A continuación se exponen los resultados del análisis realizado utilizando la 
 Analizando los resultados de la capacitancia para la primera compuerta NOR, se utilizarán transistores con una relación de 2:1, resultando en un tamaño de 6 para el transistor N y 24 para el transistor P, esto debido a las características inherentes de la compuerta. Para la segunda compuerta NOR, los tamaños de los transistores quedaron en 98 para el transistor P y 24 para el transistor N.
 
 Para determinar la potencia se debe de realizar el siguiente análisis:
-![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/30eff2c1-c7eb-47ad-8cdf-4795c4428315)
+
+![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/f17a0bbc-962c-4741-b1be-54352882b93d)
 
 Ahora bien, para la compuerta compuesta con el inversor, se puede análizar utilizando el siguiente esquematico.
 
