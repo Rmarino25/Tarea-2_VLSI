@@ -26,5 +26,5 @@ Lo que da como resultado:
 
 ![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/7632fd30-2667-4a1d-88e8-a36c6a9e1e75)
 
-
+## 2.
 
