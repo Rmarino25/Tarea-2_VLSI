@@ -11,4 +11,4 @@ A continuación se exponen los resultados del análisis realizado utilizando la 
 
 ![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/e0fc2c18-4124-45b8-811f-d78d810d38d3)
 
-
+Analizando los resultados de la capacitancia para la primera compuerta NOR se van a utilizar transitores con una relacion de 2:1, de modo que el N quedo de 6 y el P de 24, esto debido la compuerta como tal, para la segunda NOR los tamaños quedaron de 98 el p y de 24 el N
