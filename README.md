@@ -55,9 +55,12 @@ Lo que da como resultado:
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cf2ec9b9-b6a0-4cb1-8d64-02ede784b9b1" width="500"/>
 </p>
 ## 3.
+asd
 ## 4.
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/38b8e662-bd3a-4278-8faa-18c39fa64ea0" width="500"/>
 </p>
 ##5.
+asd
 ##6.
+Puntos extra
