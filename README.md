@@ -27,4 +27,10 @@ Lo que da como resultado:
 ![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/7632fd30-2667-4a1d-88e8-a36c6a9e1e75)
 
 ## 2.
+![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/923565bc-24c1-407c-b4af-da3a99a3ff13)
+![image2](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/1c351568-db8f-4122-b0ed-eaa0db9d3cb9)
+![image3](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/1a4af96e-350f-4bc2-b422-8e6236cf79b7)
+![image4](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/8cbf4cc0-ad32-4ca1-9c22-d667a243aa7e)
+![image5](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/884bd672-171c-4989-9816-79f61ea25e4f)
+![image6](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cf2ec9b9-b6a0-4cb1-8d64-02ede784b9b1)
 
