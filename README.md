@@ -42,11 +42,11 @@ Para el caso del tiempo de propagación de subida (tpdr), se estudia el caso en 
 </p>
 
 Para los casos de contaminación, se tienen los siguientes casos de estudio.
-Para el tcdf, existen por lo menos 3 transistore N activos, reduciendo así la resistencia presente en el camino. Esto da como resultado $$ \fraq{47}{4} \tau = 203.23ps$$ 
+Para el tcdf, existen por lo menos 3 transistore N activos, reduciendo así la resistencia presente en el camino. Esto da como resultado $$ \frac{47}{4} \tau = 203.23ps$$ 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/1a4af96e-350f-4bc2-b422-8e6236cf79b7" width="500"/>
 </p>
-El caso del tcdr, no existen transistores N activos, nuevamente reduciendo la resistencia del camino y aparte de esto las capacitancias a cargar, esto deja como resultado: %\fraq{17}{2} \tau = 146.2 ps%
+El caso del tcdr, no existen transistores N activos, nuevamente reduciendo la resistencia del camino y aparte de esto las capacitancias a cargar, esto deja como resultado: $$\frac{17}{2} \tau = 146.2 ps$$
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/8cbf4cc0-ad32-4ca1-9c22-d667a243aa7e" width="500"/>
 </p>
@@ -56,7 +56,7 @@ Seguidamente, se necesitan estudiar los tiempos de propagación y contaminación
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/884bd672-171c-4989-9816-79f61ea25e4f" width="500"/>
 </p>
 
-Teniendo esta información, se pueden calcular los tiempos de subida como de bajada, pero en este caso no existe un peor o mejor caso, ya que si el transistores P está activo el N no lo está y viceversa. Esto da un resultado, y tomando en cuenta la capacitancia de carga presente, un tiempo de subida y bajada de: %51.6 ps% 
+Teniendo esta información, se pueden calcular los tiempos de subida como de bajada, pero en este caso no existe un peor o mejor caso, ya que si el transistores P está activo el N no lo está y viceversa. Esto da un resultado, y tomando en cuenta la capacitancia de carga presente, un tiempo de subida y bajada de: $$51.6 ps$$ 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cf2ec9b9-b6a0-4cb1-8d64-02ede784b9b1" width="500"/>
 </p>
