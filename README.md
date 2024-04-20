@@ -22,5 +22,8 @@ Ahora bien, para la compuerta compuesta con el inversor, se puede análizar util
 
 ![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9a7aaa88-cd45-4575-936c-58a93a860ba8)
 
-Lo que da cono resultado:
+Lo que da como resultado:
+
+![image](https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/85ed1c01-0281-473f-a0fb-9d6530a44c0b)
+
 
