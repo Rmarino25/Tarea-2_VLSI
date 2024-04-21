@@ -97,18 +97,19 @@ $$tcdr = x $$
 </p>
 
 ## Parte 5.
+tpdf
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="800"/>
 </p>
-
+tpdr
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="800"/>
 </p>
-
+tcdf
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="800"/>
 </p>
-
+tcdr
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/2f57dc8b-b307-42ec-bc15-c616337b858b" width="800"/>
 </p>
