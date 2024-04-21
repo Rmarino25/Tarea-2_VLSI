@@ -86,28 +86,17 @@ $$tpdr = z $$
 $$tcdr = x $$
 
 ## Parte 3.
-<p float="left">
+<p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/31cd64a2-3e5e-4547-941f-83252ba0ee81" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/a3026f4f-7a8c-4dea-b6ef-8decaf3e95a9" width="500" />
-    <em>logo_caption</em>
+    <em>Tiempos de propagación</em>
 </p>
 
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/31cd64a2-3e5e-4547-941f-83252ba0ee81" width="800"/>
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/5c2bdae2-096f-4d4a-aae8-8462133ff132" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0b43a312-e2c5-48ca-8b68-da0d755e30b1" width="500" />
+    <em>Tiempos de contaminación</em>
 </p>
-
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/a3026f4f-7a8c-4dea-b6ef-8decaf3e95a9" width="800"/>
-</p>
-
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/5c2bdae2-096f-4d4a-aae8-8462133ff132" width="800"/>
-</p>
-
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0b43a312-e2c5-48ca-8b68-da0d755e30b1" width="800"/>
-</p>
-
 
 ## Parte 4.
 <p align="center">
@@ -118,21 +107,16 @@ $$tcdr = x $$
 </p>
 
 ## Parte 5.
-tpdf
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="800"/>
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="500" />
+    <em>Tiempos de propagación</em>
 </p>
-tpdr
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="800"/>
-</p>
-tcdf
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="800"/>
-</p>
-tcdr
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/2f57dc8b-b307-42ec-bc15-c616337b858b" width="800"/>
+
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/2f57dc8b-b307-42ec-bc15-c616337b858b" width="500" />
+    <em>Tiempos de contaminación</em>
 </p>
 
 ### Simple
