@@ -140,10 +140,12 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
 
 
 ## Parte 4.
+Utilizando los caminos de euler se determino que la mejor manera de realizar el diagrama de palitos para la compuesta queda de la siguiente manera:
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/38b8e662-bd3a-4278-8faa-18c39fa64ea0" width="300"/>
 </p>
 
+Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativamente iguales se determinó la mejor manera, dando como resultado: 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/b2bf00b5-8b88-4d3c-9430-292c6a9db2cf" width="200"/>
 </p>
@@ -183,13 +185,13 @@ Consumo de la compuerta compuesta
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/1a12e0e8-600c-4fd6-94c1-2b3bae498846" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500" />
-    <em>Compuerta NOR</em>
+    <em>Esquemático y post-trazado con parásitas de la compuerta NOR</em>
 </p>   
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="500" />
-    <em>Compuerta NOR de salida</em>
+    <em>Esquemático y post-trazado con parásitas de la compuerta NOR de salida</em>
 </p>  
 
 <p float="center">
