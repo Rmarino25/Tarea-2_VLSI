@@ -108,6 +108,19 @@ $$tcdr = x $$
 
 ## Parte 5.
 <p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/4c7133d2-bca8-4f9a-a59f-befafdd3b4c4" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="500" />
+    <em>Compuerta compuesta</em>
+</p>
+
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/c0ae6b6e-0136-4dac-840e-6f78e1d1771d" width="550" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0542c41a-9182-4b4b-9a28-8bef00380e99" width="400" />
+    <em>Inversor compuerta compuesta</em>
+</p>
+
+
+<p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="500" />
     <em>Tiempos de propagación</em>
@@ -121,25 +134,18 @@ $$tcdr = x $$
 
 ### Simple
 
-Primera NOR
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/1a12e0e8-600c-4fd6-94c1-2b3bae498846" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500" />
+    <em>Compuerta NOR</em>
+</p>   
 
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/1a12e0e8-600c-4fd6-94c1-2b3bae498846" width="550"/>
-</p>
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="500" />
+    <em>Compuerta NOR de salida</em>
+</p>  
 
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500"/>
-</p
-    
-Segunda NOR
-
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="700"/>
-</p>
-
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="700"/>
-</p>
 
 ## Parte 6.
 Puntos extra
