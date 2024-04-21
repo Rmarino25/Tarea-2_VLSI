@@ -85,6 +85,40 @@ $$tpdr = 203.23 $$
 
 $$tcdr = 146.2 $$
 
+### Compuertas simples
+Al analizar las compuertas simples, podemos determinar los tiempos de propagación y de contaminación tanto en la subida como en la bajada de la señal para la primera compuerta NOR.
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9ba7a8b6-aaab-4631-84e8-16eaa4d2bc4e" width="500"/>
+</p>
+
+Debido a que está compuesto de 3 NOR, este análisis es el mismo para la compuerta que tiene como entrada C y D.
+
+Sin embargo, para la última NOR determinar estos tiempos es diferente, ya que vamos a depender de las dos compuertas anteriores, si se desea determinar los tiempos pero para la salida se debe de realizar de la siguiente manera. Suponiendo que A y B prima son las salidas de las primera dos compuertas
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9ceb8edb-0a8f-4b3d-ac50-f0ea1f6fe432" width="500"/>
+</p>
+
+Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguiente:
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/f58a16dd-08fe-4395-9f0a-ddab12dbd317" width="500"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/882970ca-baf4-4d0b-b77d-c3bf775c9f7c" width="500"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/04f0d9b2-c636-446d-a908-9555ab663a16" width="500"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/7b9be5c0-2892-49c3-b164-1072187cfede" width="500"/>
+</p>
+
+
 ## Parte 3.
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/31cd64a2-3e5e-4547-941f-83252ba0ee81" width="500" />
