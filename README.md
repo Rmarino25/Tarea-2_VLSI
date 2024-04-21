@@ -104,6 +104,7 @@ $$tcdr = x $$
 </p
     
 #### Segunda NOR
+
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="550"/>
 </p>
