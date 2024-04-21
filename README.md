@@ -110,26 +110,26 @@ $$tcdr = x $$
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/4c7133d2-bca8-4f9a-a59f-befafdd3b4c4" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="500" />
-    <em>Compuerta compuesta</em>
+    <em>Esquemático y post-trazado con parásitas de la compuerta compuesta</em>
 </p>
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/c0ae6b6e-0136-4dac-840e-6f78e1d1771d" width="550" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0542c41a-9182-4b4b-9a28-8bef00380e99" width="400" />
-    <em>Inversor compuerta compuesta</em>
+    <em>Esquemático y post-trazado con parásitas del inversor</em>
 </p>
 
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="500" />
-    <em>Tiempos de propagación</em>
+    <em>Tiempos de propagación con capacitancias parásitas </em>
 </p>
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/2f57dc8b-b307-42ec-bc15-c616337b858b" width="500" />
-    <em>Tiempos de contaminación</em>
+    <em>Tiempos de contaminación con capacitancias parásitas</em>
 </p>
 
 ### Simple
