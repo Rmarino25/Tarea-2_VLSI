@@ -50,6 +50,11 @@ Para el caso del tiempo de propagación de subida (tpdr), se estudia el caso en 
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/6c5f8b46-0377-487c-8ced-2f862fb0a312" width="500"/>
 </p>
 
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="800"/>
+</p>
+
+
 Para los casos de contaminación, se tienen los siguientes casos de estudio.
 Para el tcdf, existen por lo menos 3 transistore N activos, reduciendo así la resistencia presente en el camino. Esto da como resultado:
 
