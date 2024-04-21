@@ -21,7 +21,7 @@ Para determinar la potencia se debe de realizar el siguiente análisis:
 
 Ahora bien, para la compuerta compuesta con el inversor, se puede análizar utilizando el siguiente esquematico.
 <p align="center">
-    <img src="(https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9a7aaa88-cd45-4575-936c-58a93a860ba8" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9a7aaa88-cd45-4575-936c-58a93a860ba8" width="500"/>
 </p>
 
 Lo que da como resultado:
