@@ -91,6 +91,7 @@ $$tcdr = x $$
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/b2bf00b5-8b88-4d3c-9430-292c6a9db2cf" width="200"/>
 </p>
+
 ## Parte 5.
 
 
