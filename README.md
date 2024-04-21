@@ -123,14 +123,21 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/31cd64a2-3e5e-4547-941f-83252ba0ee81" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/a3026f4f-7a8c-4dea-b6ef-8decaf3e95a9" width="500" />
-    <em>Tiempos de propagación</em>
+    <em>Tiempos de propagación de la compuesta</em>
 </p>
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/5c2bdae2-096f-4d4a-aae8-8462133ff132" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0b43a312-e2c5-48ca-8b68-da0d755e30b1" width="500" />
-    <em>Tiempos de contaminación</em>
+    <em>Tiempos de contaminación de la compuesta</em>
 </p>
+
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/c39b46da-6a98-491f-b0a4-98da1df38584" width="600"  /><br>
+                              <em>Tiempos de propagación y contaminación de la compuerta simple</em>
+</p>
+
+
 
 ## Parte 4.
 <p align="center">
