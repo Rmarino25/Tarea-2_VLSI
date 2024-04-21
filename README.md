@@ -63,7 +63,7 @@ Para el tcdf, existen por lo menos 3 transistore N activos, reduciendo así la r
 $$ \frac{47}{4} * \tau = 203.23ps$$ 
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="800"/>
 </p>
 
 
