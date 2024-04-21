@@ -77,13 +77,13 @@ Teniendo esta información, se pueden calcular los tiempos de subida como de baj
 
 Ya obteniendo tanto los tiempos de la compuerta compuesta como los del inversor, se puede hacer una estimación del tiempo de retardo que se puede obtener tanto de subida y bajada en los mejores y peores casos, estos resultados son los siguientes:
 
-$$tpdf = x $$
+$$tpdf = 276.8 ps $$
 
-$$tcdf = y $$
+$$tcdf = 349 ps $$
 
-$$tpdr = z $$
+$$tpdr = 203.23 $$
 
-$$tcdr = x $$
+$$tcdr = 146.2 $$
 
 ## Parte 3.
 <p float="center">
@@ -130,6 +130,10 @@ $$tcdr = x $$
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/2f57dc8b-b307-42ec-bc15-c616337b858b" width="500" />
     <em>Tiempos de contaminación con capacitancias parásitas</em>
+</p>
+Comsumo de la compuerta compuesta
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/48ffcd06-7e66-4960-a1ba-f44a30192db2" width="500"/>
 </p>
 
 ### Simple
