@@ -40,10 +40,6 @@ De aquí en adelante se asumirá el valor de tau anterior.
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/923565bc-24c1-407c-b4af-da3a99a3ff13" width="500"/>
 </p>
 
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="800"/>
-</p>
-
 
 Para el caso del tiempo de propagación de subida (tpdr), se estudia el caso en el que exite un transitor N activo, por lo que su capacitancia deberá ser cargada. Para este caso el resultado es de: $$20 \tau = 349ps$$ 
 
@@ -51,25 +47,14 @@ Para el caso del tiempo de propagación de subida (tpdr), se estudia el caso en 
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/6c5f8b46-0377-487c-8ced-2f862fb0a312" width="500"/>
 </p>
 
-
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="800"/>
-</p>
-
-
 Para los casos de contaminación, se tienen los siguientes casos de estudio.
 Para el tcdf, existen por lo menos 3 transistore N activos, reduciendo así la resistencia presente en el camino. Esto da como resultado:
 
 $$ \frac{47}{4} * \tau = 203.23ps$$ 
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/8e8c6f78-3bf7-4754-bb51-7576debb0674" width="800"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/8e8c6f78-3bf7-4754-bb51-7576debb0674" width="500"/>
 </p>
-
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="800"/>
-</p>
-
 
 
 El caso del tcdr, no existen transistores N activos, nuevamente reduciendo la resistencia del camino y aparte de esto las capacitancias a cargar, esto deja como resultado: 
@@ -112,6 +97,21 @@ $$tcdr = x $$
 </p>
 
 ## Parte 5.
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="800"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="800"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/111e8102-8fd5-46d7-a299-cd6166221da8" width="800"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/2f57dc8b-b307-42ec-bc15-c616337b858b" width="800"/>
+</p>
 
 ### Simple
 
