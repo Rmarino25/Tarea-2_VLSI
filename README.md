@@ -100,16 +100,12 @@ $$tcdr = x $$
 </p>
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/58231a87-9b71-4520-8b82-ed91c70e3244" width="500"/>
-</p>
-
-<p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/23cce372-7c71-4a76-8148-a1288ec03581" width="500"/>
 </p>
 
-
-
-
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500"/>
+</p>
 
 ## Parte 6.
 Puntos extra
