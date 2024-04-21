@@ -93,19 +93,25 @@ $$tcdr = x $$
 </p>
 
 ## Parte 5.
-###Simple
-
+## Simple
+### Primera NOR
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/1a12e0e8-600c-4fd6-94c1-2b3bae498846" width="500"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/23cce372-7c71-4a76-8148-a1288ec03581" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500"/>
+</p
+### Segunda NOR
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="500"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="500"/>
 </p>
+
+
 
 ## Parte 6.
 Puntos extra
