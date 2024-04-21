@@ -93,6 +93,22 @@ $$tcdr = x $$
 </p>
 
 ## Parte 5.
+###Simple
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/1a12e0e8-600c-4fd6-94c1-2b3bae498846" width="500"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/58231a87-9b71-4520-8b82-ed91c70e3244" width="500"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/23cce372-7c71-4a76-8148-a1288ec03581" width="500"/>
+</p>
+
+
+
 
 
 ## Parte 6.
