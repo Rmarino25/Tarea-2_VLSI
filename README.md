@@ -98,6 +98,10 @@ $$tcdr = x $$
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/5c2bdae2-096f-4d4a-aae8-8462133ff132" width="800"/>
 </p>
 
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0b43a312-e2c5-48ca-8b68-da0d755e30b1" width="800"/>
+</p>
+
 
 ## Parte 4.
 <p align="center">
