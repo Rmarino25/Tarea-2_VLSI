@@ -134,7 +134,7 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/c39b46da-6a98-491f-b0a4-98da1df38584" width="600"  /><br>
-                              <em>Tiempos de propagación y contaminación de la compuerta simple</em>
+     <em>Tiempos de propagación y contaminación de la compuerta simple</em>
 </p>
 
 
@@ -143,6 +143,7 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/38b8e662-bd3a-4278-8faa-18c39fa64ea0" width="300"/>
 </p>
+
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/b2bf00b5-8b88-4d3c-9430-292c6a9db2cf" width="200"/>
 </p>
@@ -160,7 +161,6 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
     <em>Esquemático y post-trazado con parásitas del inversor</em>
 </p>
 
-
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/01592264-cc0d-40bf-aca1-25c9ca2710a5" width="500" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="500" />
@@ -172,7 +172,8 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/2f57dc8b-b307-42ec-bc15-c616337b858b" width="500" />
     <em>Tiempos de contaminación con capacitancias parásitas</em>
 </p>
-Comsumo de la compuerta compuesta
+
+Consumo de la compuerta compuesta
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/48ffcd06-7e66-4960-a1ba-f44a30192db2" width="500"/>
 </p>
@@ -190,6 +191,16 @@ Comsumo de la compuerta compuesta
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="500" />
     <em>Compuerta NOR de salida</em>
 </p>  
+
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/975ba088-b4d8-4b97-accc-1d23bc4ce1b4" width="600"  /><br>
+     <em>Tiempos de propagación y contaminación de la compuerta simple con capacitancias parásitas</em>
+</p>
+
+Consumo de la compuerta simple
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/48ffcd06-7e66-4960-a1ba-f44a30192db2" width="500"/>
+</p>
 
 
 ## Parte 6.
