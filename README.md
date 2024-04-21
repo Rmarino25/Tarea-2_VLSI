@@ -46,9 +46,11 @@ De aquí en adelante se asumirá el valor de tau anterior.
 
 
 Para el caso del tiempo de propagación de subida (tpdr), se estudia el caso en el que exite un transitor N activo, por lo que su capacitancia deberá ser cargada. Para este caso el resultado es de: $$20 \tau = 349ps$$ 
+
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/6c5f8b46-0377-487c-8ced-2f862fb0a312" width="500"/>
 </p>
+
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cebc9ac9-f850-4dc6-8f69-93b3c7ed8d9c" width="800"/>
