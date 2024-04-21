@@ -93,8 +93,8 @@ $$tcdr = x $$
 </p>
 
 ## Parte 5.
-## Simple
-### Primera NOR
+### Simple
+#### Primera NOR
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/1a12e0e8-600c-4fd6-94c1-2b3bae498846" width="550"/>
 </p>
@@ -103,7 +103,7 @@ $$tcdr = x $$
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500"/>
 </p
     
-### Segunda NOR
+#### Segunda NOR
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="550"/>
 </p>
