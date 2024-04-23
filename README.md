@@ -137,8 +137,6 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
      <em>Tiempos de propagación y contaminación de la compuerta simple</em>
 </p>
 
-
-
 ## Parte 4.
 Utilizando los caminos de Euler se determino que la mejor manera de realizar el diagrama de palitos para la compuesta queda de la siguiente manera:
 <p align="center">
