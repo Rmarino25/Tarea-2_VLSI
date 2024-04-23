@@ -44,7 +44,8 @@ Al tener las dos soluciones propuestas mediante el uso de la teoría del esfuerz
 Con respecto a los tiempos de propagación y contaminación, se realizaron tanto los cálculos para la compuerta compuesta como para las etapas más pequeñas en el que se estudia el mejor y el peor caso tomando las capacitancias que se deban cargar o descargar en cada caso
 
 ### Compuerta compuesta e inversor 
-Con respecto al tiempo de propagación de bajada (tpdf) de la compuerta compuesta se realizaron los siguientes cálculos, donde el caso de estudio será cuando solo dos transistores N esten activos, dejando un retardo de 16RC, donde $$RC = \tau = 17.3 ps$$ 
+Con respecto al tiempo de propagación de bajada (tpdf) de la compuerta compuesta se realizaron los siguientes cálculos, donde el caso de estudio será cuando solo dos transistores N esten activos, dejando un retardo de 16RC, donde 
+$$RC = \tau = 17.3 ps$$ 
 De aquí en adelante se asumirá el valor de tau anterior.
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/923565bc-24c1-407c-b4af-da3a99a3ff13" width="500"/>
@@ -161,7 +162,7 @@ Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativament
 ## Parte 5.
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/4c7133d2-bca8-4f9a-a59f-befafdd3b4c4" width="500" />
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="500" /><br>
     <em>Esquemático y post-trazado con parásitas de la compuerta compuesta</em>
 </p>
 
@@ -192,13 +193,13 @@ Consumo de la compuerta compuesta
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/1a12e0e8-600c-4fd6-94c1-2b3bae498846" width="500" />
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/fe5095bc-6fbd-40f6-b232-f93f95b2b663" width="500" /><br>
     <em>Esquemático y post-trazado con parásitas de la compuerta NOR</em>
 </p>   
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="500" />
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="500" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="500" /><br>
     <em>Esquemático y post-trazado con parásitas de la compuerta NOR de salida</em>
 </p>  
 
