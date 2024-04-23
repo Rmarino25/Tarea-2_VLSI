@@ -171,7 +171,7 @@ Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativament
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/c0ae6b6e-0136-4dac-840e-6f78e1d1771d" width="400" />
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0542c41a-9182-4b4b-9a28-8bef00380e99" width="400" /><br>
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/0542c41a-9182-4b4b-9a28-8bef00380e99" width="250" /><br>
     <em>Esquemático y post-trazado con parásitas del inversor</em>
 </p>
 
