@@ -161,8 +161,8 @@ Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativament
 
 ## Parte 5.
 <p float="center">
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/4c7133d2-bca8-4f9a-a59f-befafdd3b4c4" width="500" />
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="500" /><br>
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/4c7133d2-bca8-4f9a-a59f-befafdd3b4c4" width="450" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="450" /><br>
     <em>Esquemático y post-trazado con parásitas de la compuerta compuesta</em>
 </p>
 
