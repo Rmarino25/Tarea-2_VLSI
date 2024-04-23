@@ -46,7 +46,8 @@ Con respecto a los tiempos de propagación y contaminación, se realizaron tanto
 ### Compuerta compuesta e inversor 
 Con respecto al tiempo de propagación de bajada (tpdf) de la compuerta compuesta se realizaron los siguientes cálculos, donde el caso de estudio será cuando solo dos transistores N esten activos, dejando un retardo de 16RC, donde 
 $$RC = \tau = 17.3 ps$$ 
-De aquí en adelante se asumirá el valor de tau anterior.
+$$RC = \tau = 25.48 ps$$ 
+De aquí en adelante se asumirá el valor de tau anterior tanto para los transistores N como los P respectivamente.
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/923565bc-24c1-407c-b4af-da3a99a3ff13" width="500"/>
 </p>
@@ -210,7 +211,7 @@ Consumo de la compuerta compuesta
 
 Consumo de la compuerta simple
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/48ffcd06-7e66-4960-a1ba-f44a30192db2" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/91d0b119-4701-43d3-b05f-31ab328c7c0a" width="500"/>
 </p>
 
 
