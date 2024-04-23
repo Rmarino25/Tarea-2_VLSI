@@ -151,8 +151,10 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
 
 ## Parte 4.
 Utilizando los caminos de Euler se determino que la mejor manera de realizar el diagrama de palitos para la compuesta queda de la siguiente manera:
-<p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/38b8e662-bd3a-4278-8faa-18c39fa64ea0" width="300"/>
+
+<p float="center">
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/38b8e662-bd3a-4278-8faa-18c39fa64ea0" width="400" />
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/700acf2d-a541-490d-aaed-427095f0041b" width="270" /><br>
 </p>
 
 Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativamente iguales se determinó la mejor manera, dando como resultado: 
