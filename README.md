@@ -217,5 +217,5 @@ Consumo de la compuerta simple
 </p>
 
 
-## Parte 6.
+## Parte 6 (Opcional).
 Puntos extra
