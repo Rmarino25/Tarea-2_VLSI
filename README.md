@@ -8,7 +8,9 @@ La implementacion realizada con compuertas simple quedó de la siguiente manera:
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/bc585a32-ba6d-4422-b534-9c71cbfdbb13" width="500"/>
 </p>
-A continuación se exponen los resultados del análisis realizado utilizando la compuerta mencionada anteriormente.
+A continuación se exponen los resultados del análisis realizado utilizando la compuerta mencionada anteriormente, dando como resultado:
+
+$$D = 17.6 \tau$$ 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/e0fc2c18-4124-45b8-811f-d78d810d38d3" width="500"/>
 </p>
@@ -24,7 +26,10 @@ Ahora bien, para la compuerta compuesta con el inversor, se puede análizar util
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9a7aaa88-cd45-4575-936c-58a93a860ba8" width="500"/>
 </p>
 
-Lo que da como resultado:
+Lo que da como resultado: 
+
+$$D = 16.54 \tau$$ 
+
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/7632fd30-2667-4a1d-88e8-a36c6a9e1e75" width="500"/>
 </p>
@@ -32,6 +37,8 @@ Lo que da como resultado:
 Por lo que se obtiene como resultado que los tamaños de los transistores de entrada tienen que sumar 30 lamda, dada una relación 2:1 se decide que los transistores N sean de tamaño 6 y los P de 24. Con respecto al inversor, los dos transistores deben de sumar 86 lamda, por lo que se decide que los P sean de tamaño 8 y los N de 4.
 
 Para determinar la potencia consumida por la compuerta compuesta se tiene el siguiente análisis:
+
+Al tener las dos soluciones propuestas mediante el uso de la teoría del esfuerzo lógico, se concluye que la compuerta compuesta es más rápida, exactamente por 1.06 tau. Por otra parte, con respecto a la potencia se puede observar que la compuerta X .........
 
 ## Parte 2.
 Con respecto a los tiempos de propagación y contaminación, se realizaron tanto los cálculos para la compuerta compuesta como para las etapas más pequeñas en el que se estudia el mejor y el peor caso tomando las capacitancias que se deban cargar o descargar en cada caso
