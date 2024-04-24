@@ -208,7 +208,7 @@ Consumo de la compuerta compuesta
 
 
 <p float="center">
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/975ba088-b4d8-4b97-accc-1d23bc4ce1b4" width="600"  /><br>
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/975ba088-b4d8-4b97-accc-1d23bc4ce1b4" width="450"  /><br>
      <em>Tiempos de propagación y contaminación de la compuerta simple con capacitancias parásitas</em>
 </p>
 
