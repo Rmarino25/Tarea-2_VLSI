@@ -16,17 +16,18 @@ $$D = 17.6 \tau$$
 </p>
 Analizando los resultados de la capacitancia para la primera compuerta NOR, se utilizarán transistores con una relación de 2:1, resultando en un tamaño de 6 para el transistor N y 24 para el transistor P, esto debido a las características inherentes de la compuerta. Para la segunda compuerta NOR, los tamaños de los transistores quedaron en 98 para el transistor P y 24 para el transistor N.
 
-Para determinar la potencia se debe de realizar el siguiente análisis:
+Para determinar la potencia se realizaron diferentes iteraciones mediante el uso de un deck, en el cual se fueron variando las entradas, dando como mayor consumo, en un periodo de 10ns, el siguiente resultado:
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/f17a0bbc-962c-4741-b1be-54352882b93d" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/b6262c16-9198-432a-ba3c-664a647fe14c" width="500"/>
 </p>
+
 
 Ahora bien, para la compuerta compuesta con el inversor, se puede análizar utilizando el siguiente esquematico.
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9a7aaa88-cd45-4575-936c-58a93a860ba8" width="500"/>
 </p>
 
-Lo que da como resultado: 
+A esta compuerta se le realizan los cálculos presentes en la sigueinte imagen, dando como resultado: 
 
 $$D = 16.54 \tau$$ 
 
@@ -36,9 +37,14 @@ $$D = 16.54 \tau$$
 
 Por lo que se obtiene como resultado que los tamaños de los transistores de entrada tienen que sumar 30 lamda, dada una relación 2:1 se decide que los transistores N sean de tamaño 6 y los P de 24. Con respecto al inversor, los dos transistores deben de sumar 86 lamda, por lo que se decide que los P sean de tamaño 8 y los N de 4.
 
-Para determinar la potencia consumida por la compuerta compuesta se tiene el siguiente análisis:
+Para determinar la potencia consumida por la compuerta compuesta se realizó el mismo análisis, variando las entradas y en un periodo de tiempo de 10ns, dando el siguiente resultado:
 
-Al tener las dos soluciones propuestas mediante el uso de la teoría del esfuerzo lógico, se concluye que la compuerta compuesta es más rápida, exactamente por 1.06 tau. Por otra parte, con respecto a la potencia se puede observar que la compuerta X .........
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/3343c1e0-a316-438c-a3b2-ecf739491113" width="500"/>
+</p>
+
+
+Al tener las dos soluciones propuestas mediante el uso de la teoría del esfuerzo lógico, se concluye que la compuerta compuesta es más rápida, exactamente por 1.06 tau. Por otra parte, con respecto a la potencia se puede observar que la compuerta compuesta, aunque presenta una lógica más compleja, presenta un menor consumo, de 2.81u menos comparado a la compuesta con lógica más simple
 
 ## Parte 2.
 Con respecto a los tiempos de propagación y contaminación, se realizaron tanto los cálculos para la compuerta compuesta como para las etapas más pequeñas en el que se estudia el mejor y el peor caso tomando las capacitancias que se deban cargar o descargar en cada caso
