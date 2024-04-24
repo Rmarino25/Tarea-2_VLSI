@@ -44,7 +44,7 @@ Para determinar la potencia consumida por la compuerta compuesta se realizó el 
 </p>
 
 
-Al tener las dos soluciones propuestas mediante el uso de la teoría del esfuerzo lógico, se concluye que la compuerta compuesta es más rápida, exactamente por 1.06 tau. Por otra parte, con respecto a la potencia se puede observar que la compuerta compuesta, aunque presenta una lógica más compleja, presenta un menor consumo, de 2.81u menos comparado a la compuesta con lógica más simple
+Al tener las dos soluciones propuestas mediante el uso de la teoría del esfuerzo lógico, se concluye que la compuerta compuesta es más rápida, exactamente por 1.06 tau. Por otra parte, con respecto a la potencia se puede observar que la compuerta compuesta, aunque presenta una lógica más compleja, presenta un menor consumo, de 2.81u menos comparado a la compuesta con lógica más simple.
 
 ## Parte 2.
 Con respecto a los tiempos de propagación y contaminación, se realizaron tanto los cálculos para la compuerta compuesta como para las etapas más pequeñas en el que se estudia el mejor y el peor caso tomando las capacitancias que se deban cargar o descargar en cada caso
@@ -215,7 +215,7 @@ Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativament
 
 Consumo de la compuerta compuesta
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/48ffcd06-7e66-4960-a1ba-f44a30192db2" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/a3a52c46-df25-4613-b900-05a5c1b5c72d" width="500"/>
 </p>
 
 ### Simple
@@ -240,9 +240,19 @@ Consumo de la compuerta compuesta
 
 Consumo de la compuerta simple
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/91d0b119-4701-43d3-b05f-31ab328c7c0a" width="500"/>
+    <img src="(https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/90399cca-15ed-4f4a-9685-35de695b29c4" width="500"/>
 </p>
 
 
 ## Parte 6 (Opcional).
-Puntos extra
+Con respecto a la potencia, la aproximación utilizada en el punto anterior no caracteriza del todo la potencia consumida por ambos circuitos, esto debido a que se suponen unos valores de entrada fijos. Para realmente calcular la potencia consumida por estas compuertas, es necesario verificar la probabilidad de que estas entradas estén en "alto". Dado que cada entrada en independiente de las otras, se pueden tomar como equiprobables, por lo que la probablidad de cada entrada está dada por: 
+
+$$P_{entrada} = \frac{1}{4}$$
+
+Ya con la probabalidad de cada entrada, se puede calcular el factor de actividad y utilizando la mayor frecuencia posible, la potencia consumida por cada compuesta, esto mediante la siguiente ecuacuión:
+
+$$P_{s} = \alpha * C * Vdd^2 * f $$
+
+Por lo tanto para la compuerta compuesta...............
+
+Y para la compuertas simples..................
