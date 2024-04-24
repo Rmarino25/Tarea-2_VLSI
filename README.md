@@ -167,6 +167,7 @@ Comparando los tiempos medidos con los de Elmore, nos podemos dar cuenta que tie
 | S. tcdf      | 95.15 ps     | 76.2 ps    |
 | S. tpdf      | 190.3 ps     | 176 ps     |
 
+Dados estos resultados y los tiempos de retardo obtenidos con la teoría del esfuerzo lógico, no se puede caracterizar por completo el comportamiento de las compuertas, ya que los tiempos de retardo dependen totalmente de las entradas y de las capacitancias parásitas presentes. Esto llega a variar los tiempos dando un mejor y peor caso, por lo que se puede decir que la teoría del esfuerzo lógico es una buena aproximación, siendo más optimista y Elmore una aproximación más pesimista   
 
 ## Parte 4.
 Utilizando los caminos de Euler se determino que la mejor manera de realizar el diagrama de palitos para la compuesta queda de la siguiente manera:
