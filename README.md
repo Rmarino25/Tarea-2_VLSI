@@ -132,6 +132,8 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
 
 
 ## Parte 3.
+Para verificar la funcionalidad eléctrica y lógica de los esquemáticos propuestos como solución, se montaron los circuitos a nivel de transistores siguiendo los diseños proporcionados a nivel de compuertas. 
+Se realizaron mediciones de los tiempos para la compuerta compuesta y las simples una vez armados los circuitos. Antes de las mediciones, se verificó la correcta conexión de los componentes y se aseguró un suministro de energía adecuado. Dando como resultado los siguientes tiempos.
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/31cd64a2-3e5e-4547-941f-83252ba0ee81" width="400" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/a3026f4f-7a8c-4dea-b6ef-8decaf3e95a9" width="400" /><br>
@@ -148,6 +150,18 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/c39b46da-6a98-491f-b0a4-98da1df38584" width="500"  /><br>
      <em>Tiempos de propagación y contaminación de la compuerta simple</em>
 </p>
+
+Comparando los tiempos medidos con los de Elmore, nos podemos dar cuenta que tienen un porcentaje de error aceptable. En la siguiente tabla se pueden observar las comparaciones.
+| Tiempo | Elmore | Simulado |
+|--------------|--------------|------------|
+| C. tpdf      | 276.8 ps     | 215 ps     |
+| C. tcdf      | 203.23 ps    | 212 p      |
+| C. tpdr      | 349 ps       | 269 p      |
+| C. tcdr      | 146.2 ps     | 164 p      |
+| S. tpdf      | 331.24 ps    | 316 ps     |
+| S. tcdf      | 95.15 ps     | 76.2 ps    |
+| S. tpdf      | 190.3 ps     | 176 ps     |
+
 
 ## Parte 4.
 Utilizando los caminos de Euler se determino que la mejor manera de realizar el diagrama de palitos para la compuesta queda de la siguiente manera:
