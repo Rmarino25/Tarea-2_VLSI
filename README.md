@@ -82,9 +82,14 @@ Seguidamente, se necesitan estudiar los tiempos de propagación y contaminación
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/884bd672-171c-4989-9816-79f61ea25e4f" width="500"/>
 </p>
 
-Teniendo esta información, se pueden calcular los tiempos de subida como de bajada, pero en este caso no existe un peor o mejor caso, ya que si el transistores P está activo el N no lo está y viceversa. Esto da un resultado, y tomando en cuenta la capacitancia de carga presente, un tiempo de subida y bajada de: $$51.6 ps$$ 
+Teniendo esta información, se pueden calcular los tiempos de subida como de bajada, pero en este caso no existe un peor o mejor caso, ya que si el transistores P está activo el N no lo está y viceversa. Esto da un resultado, y tomando en cuenta la capacitancia de carga presente, los tiempos de subida y bajada son los siguientes respectivamente:
+
+$$76.44 ps$$
+
+$$51.6 ps$$ 
+
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/cf2ec9b9-b6a0-4cb1-8d64-02ede784b9b1" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/36b06cba-7659-42f4-89a4-7e525c197012" width="500"/>
 </p>
 
 Ya obteniendo tanto los tiempos de la compuerta compuesta como los del inversor, se puede hacer una estimación del tiempo de retardo que se puede obtener tanto de subida y bajada en los mejores y peores casos, estos resultados son los siguientes:
