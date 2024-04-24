@@ -202,9 +202,10 @@ Consumo de la compuerta compuesta
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/4975ae96-460b-45cb-8c8a-c85c4c4f1459" width="400" />
-  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d58c822d-e6ff-4e38-a373-a14df9cdb81f" width="400" /><br>
+  <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/d5f82842-1560-4cf7-8a8c-46ff292ac707" width="400" /><br>
     <em>Esquemático y post-trazado con parásitas de la compuerta NOR de salida</em>
-</p>  
+</p> 
+
 
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/975ba088-b4d8-4b97-accc-1d23bc4ce1b4" width="600"  /><br>
