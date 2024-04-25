@@ -258,7 +258,7 @@ Ahora bien, editando el deck se realizó una medición del consumo de la compuer
 
 Realiazando nuevamente una modificación en el deck se determinó la potencia consumida por la compuerta simple.
 <p align="center">
-    <img src="(https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/90399cca-15ed-4f4a-9685-35de695b29c4" width="500"/>
+    <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/90399cca-15ed-4f4a-9685-35de695b29c4" width="500"/>
 </p>
 
 
