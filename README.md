@@ -47,12 +47,12 @@ Para determinar la potencia consumida por la compuerta compuesta se realizó el 
 Al tener las dos soluciones propuestas mediante el uso de la teoría del esfuerzo lógico, se concluye que la compuerta compuesta es más rápida, exactamente por 1.06 tau. Por otra parte, con respecto a la potencia se puede observar que la compuerta compuesta, aunque presenta una lógica más compleja, presenta un menor consumo, de 2.81u menos comparado a la compuesta con lógica más simple.
 
 ## Parte 2.
-Con respecto a los tiempos de propagación y contaminación, se realizaron tanto los cálculos para la compuerta compuesta como para las etapas más pequeñas en el que se estudia el mejor y el peor caso tomando las capacitancias que se deban cargar o descargar en cada caso
+Con respecto a los tiempos de propagación y contaminación, se realizaron tanto los cálculos para la compuerta compuesta como para las etapas más pequeñas en el que se estudia el mejor y el peor caso tomando las capacitancias que se deban cargar o descargar en cada caso.
 
 ### Compuerta compuesta e inversor 
 Con respecto al tiempo de propagación de bajada (tpdf) de la compuerta compuesta se realizaron los siguientes cálculos, donde el caso de estudio será cuando solo dos transistores N esten activos, dejando un retardo de 16RC, donde 
-$$RC = \tau = 17.3 ps$$ 
-$$RC = \tau = 25.48 ps$$ 
+$$RC_{N} = \tau = 17.3 ps$$ 
+$$RC_{P} = \tau = 25.48 ps$$ 
 De aquí en adelante se asumirá el valor de tau anterior tanto para los transistores N como los P respectivamente.
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/923565bc-24c1-407c-b4af-da3a99a3ff13" width="500"/>
@@ -117,7 +117,7 @@ Al analizar las compuertas simples, podemos determinar los tiempos de propagaci�
 
 Debido a que está compuesto de 3 NOR, este análisis es el mismo para la compuerta que tiene como entrada C y D.
 
-Sin embargo, para la última NOR determinar estos tiempos es diferente, ya que vamos a depender de las dos compuertas anteriores, si se desea determinar los tiempos pero para la salida se debe de realizar de la siguiente manera. Suponiendo que A y B prima son las salidas de las primera dos compuertas
+Sin embargo, para la última NOR determinar estos tiempos es diferente, ya que vamos a depender de las dos compuertas anteriores, si se desea determinar los tiempos pero para la salida se debe de realizar de la siguiente manera. Suponiendo que A y B prima son las salidas de las primera dos compuertas.
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/9ceb8edb-0a8f-4b3d-ac50-f0ea1f6fe432" width="500"/>
@@ -184,7 +184,7 @@ Comparando los tiempos medidos con los de Elmore, nos podemos dar cuenta que tie
 | S. tcdf      | 95.15 ps     | 76.2 ps    |
 | S. tpdf      | 190.3 ps     | 176 ps     |
 
-Dados estos resultados y los tiempos de retardo obtenidos con la teoría del esfuerzo lógico, no se puede caracterizar por completo el comportamiento de las compuertas, ya que los tiempos de retardo dependen totalmente de las entradas y de las capacitancias parásitas presentes. Esto llega a variar los tiempos dando un mejor y peor caso, por lo que se puede decir que la teoría del esfuerzo lógico es una buena aproximación, siendo más optimista y Elmore una aproximación más pesimista   
+Dados estos resultados y los tiempos de retardo obtenidos con la teoría del esfuerzo lógico, no se puede caracterizar por completo el comportamiento de las compuertas, ya que los tiempos de retardo dependen totalmente de las entradas y de las capacitancias parásitas presentes. Esto llega a variar los tiempos dando un mejor y peor caso, por lo que se puede decir que la teoría del esfuerzo lógico es una buena aproximación, siendo más optimista y Elmore una aproximación más pesimista.   
 
 ## Parte 4.
 Utilizando los caminos de Euler se determino que la mejor manera de realizar el diagrama de palitos para la compuesta queda de la siguiente manera:
@@ -276,14 +276,24 @@ Comparando los tiempos simulados con los esquematicos vs los tiempos de las comp
 Analizando los datos podemos ver como el timepo aumentó considerablemente debido a las capacitancias parásitas de las compuertas.
 
 ## Parte 6 (Opcional).
-Con respecto a la potencia, la aproximación utilizada en el punto anterior no caracteriza del todo la potencia consumida por ambos circuitos, esto debido a que se suponen unos valores de entrada fijos. Para realmente calcular la potencia consumida por estas compuertas, es necesario verificar la probabilidad de que estas entradas estén en "alto". Dado que cada entrada en independiente de las otras, se pueden tomar como equiprobables, por lo que la probablidad de cada entrada está dada por: 
+Con respecto a la potencia, la aproximación utilizada en el punto anterior no caracteriza del todo la potencia consumida por ambos circuitos, esto debido a que se suponen unos valores de entrada fijos. Para realmente calcular la potencia consumida por estas compuertas, es necesario verificar la probabilidad de que estas entradas estén en "alto". Dado que cada entrada es independiente de las otras, se pueden tomar como equiprobables, por lo que la probablidad de cada entrada está dada por: 
 
 $$P_{entrada} = \frac{1}{4}$$
 
-Ya con la probabalidad de cada entrada, se puede calcular el factor de actividad y utilizando la mayor frecuencia posible, la potencia consumida por cada compuesta, esto mediante la siguiente ecuacuión:
+Ya con la probabalidad de cada entrada, se puede calcular el factor de actividad y utilizando la mayor frecuencia posible, la potencia consumida por cada compuerta, esto mediante la siguiente ecuacuión:
 
-$$P_{s} = \alpha * C * Vdd^2 * f $$
+$$P_{s} = \alpha * C * Vdd^2 * f = \alpha * (C_{área} * Area_{chip}) * Vdd^2 * f  $$
 
-Por lo tanto para la compuerta compuesta...............
+Para este caso de estudio en específico, se utiliza un pitch de 4.48 nm y el largo calculado para cada compuertra. Con respecto a la capacitancia por áre se utiliza la siguiente: 
 
-Y para la compuertas simples..................
+$$450 pF/mm^2$$ 
+
+Por lo tanto, para la compuertas simples se tiene el siguiente cálculo:
+
+$$\frac{63}{256} \times (450 pF/mm^2 \times (4.48 um \times 29 um )) \times (1.8^2) \times 2.23 \times 10^9 = 103.22 uW$$
+
+Y para la compuerta compleja se tiene la siguiente potencia:
+
+$$\frac{63}{256} \times (450 pF/mm^2 \times (4.48 um \times 20 um )) \times (1.8^2) \times 2.37 \times 10^9 = 76.19 uW$$
+
+Dados los resultados anteriores, se observa que la compuerta compleja presenta un menor consumo de potencia aunque esta pueda funcionar a una mayor frecuencia, esto es debido al área total utilizada en las dos propuestas, ya que las compuertas simples ocupan 9 um más que la compuerta compleja, dando así una diferencia de 27.03 uW. 
