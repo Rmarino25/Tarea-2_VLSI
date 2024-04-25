@@ -262,7 +262,6 @@ Realiazando nuevamente una modificación en el deck se determinó la potencia co
 </p>
 
 Comparando los tiempos simulados con los esquematicos vs los tiempos de las compuertas con las capacitancias parásitas, lo podemos observar en la siguiente tabla.
-¡Claro! Aquí tienes los datos reorganizados:
 
 | Tiempo    | Esquematico       | Post-trazado    |
 |------------|--------------|-----------|
