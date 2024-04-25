@@ -128,19 +128,30 @@ Al determinar el los tiempos de la ultima compuerta se puede analizar lo siguien
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/f58a16dd-08fe-4395-9f0a-ddab12dbd317" width="500"/>
 </p>
+Para un total de:
+
+$$435.04 ps $$
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/882970ca-baf4-4d0b-b77d-c3bf775c9f7c" width="500"/>
 </p>
+Sumando estos valores da:
+
+$$383.14 ps $$
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/04f0d9b2-c636-446d-a908-9555ab663a16" width="500"/>
 </p>
+Lo cual su suma da:
+
+$$298.96 ps $$
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/7b9be5c0-2892-49c3-b164-1072187cfede" width="500"/>
 </p>
+Dando como resultado:
 
+$$394.11 ps $$
 
 ## Parte 3.
 Para verificar la funcionalidad eléctrica y lógica de los esquemáticos propuestos como solución, se montaron los circuitos a nivel de transistores siguiendo los diseños proporcionados a nivel de compuertas. 
