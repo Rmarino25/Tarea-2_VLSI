@@ -202,9 +202,11 @@ Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativament
 ## Parte 5.
 El proceso de diseño del layout de las soluciones comenzó con un análisis del diagrama de palitos y del esquemático a nivel de transistores. Esta etapa inicial fue crucial para obtener una visión clara de cómo podrían ser acomodados en el diseño final.
 
-Como podemos observar en las siguientes figuras, después de la creación de las compuertas, se procedió a realizar tres verificaciones cruciales: DRC (Design Rule Check), LVS (Layout vs. Schematic) y LPE (Layout Parasitic Extraction). Estas verificaciones garantizaron la integridad y precisión del diseño, identificando posibles errores o discrepancias entre el layout y el esquemático.
+Como podemos observar en las siguientes figuras, después de la creación de las compuertas, se procedió a realizar tres verificaciones cruciales: DRC (Design Rule Check), LVS (Layout vs. Schematic) y LPE (Layout Parasitic Extraction). 
 
-Una vez que las soluciones pasaron estas verificaciones sin errores, se crearon las compuertas definitivas, incluyendo las capacitancias parasitarias de cada transistor, entre otras consideraciones importantes. Este proceso meticuloso garantizó que el diseño final cumpliera con los estándares de calidad y rendimiento requeridos para su implementación
+Una vez que las soluciones pasaron estas verificaciones sin errores, se crearon las compuertas finales, incluyendo las capacitancias parasitarias de cada transistor, entre otras consideraciones importantes. 
+
+Adicionalmente se agregaron las imagenes de las simulaciones de las compuertas, con sus tiempos respectivos.
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/4c7133d2-bca8-4f9a-a59f-befafdd3b4c4" width="400" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="400" /><br>
@@ -229,7 +231,7 @@ Una vez que las soluciones pasaron estas verificaciones sin errores, se crearon 
     <em>Tiempos de contaminación con capacitancias parásitas</em>
 </p>
 
-Consumo de la compuerta compuesta
+Ahora bien, editando el deck se realizó una medición del consumo de la compuerta compuesta, dando como resultado:
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/a3a52c46-df25-4613-b900-05a5c1b5c72d" width="500"/>
 </p>
@@ -253,7 +255,7 @@ Consumo de la compuerta compuesta
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/975ba088-b4d8-4b97-accc-1d23bc4ce1b4" width="450"  /><br>
      <em>Tiempos de propagación y contaminación de la compuerta simple con capacitancias parásitas</em>
 </p>
-
+Realiazando nuevamente una modificación en el deck se determinó la potencia consumida por la compuerta simple.
 Consumo de la compuerta simple
 <p align="center">
     <img src="(https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/90399cca-15ed-4f4a-9685-35de695b29c4" width="500"/>
