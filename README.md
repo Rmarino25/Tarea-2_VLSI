@@ -255,8 +255,8 @@ Ahora bien, editando el deck se realizó una medición del consumo de la compuer
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110353604/975ba088-b4d8-4b97-accc-1d23bc4ce1b4" width="450"  /><br>
      <em>Tiempos de propagación y contaminación de la compuerta simple con capacitancias parásitas</em>
 </p>
+
 Realiazando nuevamente una modificación en el deck se determinó la potencia consumida por la compuerta simple.
-Consumo de la compuerta simple
 <p align="center">
     <img src="(https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/90399cca-15ed-4f4a-9685-35de695b29c4" width="500"/>
 </p>
