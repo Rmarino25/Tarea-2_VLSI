@@ -261,6 +261,20 @@ Realiazando nuevamente una modificación en el deck se determinó la potencia co
     <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/90399cca-15ed-4f4a-9685-35de695b29c4" width="500"/>
 </p>
 
+Comparando los tiempos simulados con los esquematicos vs los tiempos de las compuertas con las capacitancias parásitas, lo podemos observar en la siguiente tabla.
+¡Claro! Aquí tienes los datos reorganizados:
+
+| Tiempo    | Esquematico       | Post-trazado    |
+|------------|--------------|-----------|
+| C. tpdf    | 215 ps       | 275 ps  |           
+| C. tcdf    | 212 ps       | 250 ps |           
+| C. tpdr    | 269 ps       | 365 ps    |           
+| C. tcdr    | 164 ps       | 197 ps  |           
+| S. tpdf    | 316 ps       | 358 ps |           
+| S. tcdf    | 76.2 ps      | 87 ps  |           
+| S. tpdf    | 176 ps       | 192 ps  |           
+
+Analizando los datos podemos ver como el timepo aumentó considerablemente debido a las capacitancias parásitas de las compuertas.
 
 ## Parte 6 (Opcional).
 Con respecto a la potencia, la aproximación utilizada en el punto anterior no caracteriza del todo la potencia consumida por ambos circuitos, esto debido a que se suponen unos valores de entrada fijos. Para realmente calcular la potencia consumida por estas compuertas, es necesario verificar la probabilidad de que estas entradas estén en "alto". Dado que cada entrada en independiente de las otras, se pueden tomar como equiprobables, por lo que la probablidad de cada entrada está dada por: 
