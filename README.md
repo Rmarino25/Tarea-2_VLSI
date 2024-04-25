@@ -200,6 +200,11 @@ Ahora bien, para la NOR como se sabe que las 3 compuertas van a ser relativament
 </p>
 
 ## Parte 5.
+El proceso de diseño del layout de las soluciones comenzó con un análisis del diagrama de palitos y del esquemático a nivel de transistores. Esta etapa inicial fue crucial para obtener una visión clara de cómo podrían ser acomodados en el diseño final.
+
+Como podemos observar en las siguientes figuras, después de la creación de las compuertas, se procedió a realizar tres verificaciones cruciales: DRC (Design Rule Check), LVS (Layout vs. Schematic) y LPE (Layout Parasitic Extraction). Estas verificaciones garantizaron la integridad y precisión del diseño, identificando posibles errores o discrepancias entre el layout y el esquemático.
+
+Una vez que las soluciones pasaron estas verificaciones sin errores, se crearon las compuertas definitivas, incluyendo las capacitancias parasitarias de cada transistor, entre otras consideraciones importantes. Este proceso meticuloso garantizó que el diseño final cumpliera con los estándares de calidad y rendimiento requeridos para su implementación
 <p float="center">
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/4c7133d2-bca8-4f9a-a59f-befafdd3b4c4" width="400" />
   <img src="https://github.com/Rmarino25/Tarea-2_VLSI/assets/110320407/edd113d4-0a30-43da-84f0-7c1c08c015c9" width="400" /><br>
